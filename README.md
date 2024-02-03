@@ -1,13 +1,17 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Muhammad Aliyan Nadeem!
 
 ## 📚 About Me
-- 🎓 Studying/Working at [Your University/Company]
-- 💼 [Your Job Title/Role]
+- 🎓 Studying/Working at University of Lahore Sargodha Campus.
 
 ## 💻 Tech Stack
 - Languages: [List of programming languages you're proficient in]
 - Frameworks/Libraries: [List of frameworks/libraries you use]
 - Tools/Technologies: [List of tools and technologies you work with]
+- AWS: Proficient in AWS services such as EC2, S3, Lambda, etc.
+- DevOps: Experience with DevOps practices and tools like Docker, Kubernetes, CI/CD pipelines, etc.
+- MERN Stack Developer: Proficient in MongoDB, Express.js, React.js, Node.js for full-stack web development.
+- Machine Learning & Deep Learning: Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, PyTorch, scikit-learn, etc.
+- Generative AI: Experience with generative adversarial networks (GANs) and other techniques in generative artificial intelligence.
 
 ## 🌱 Currently Learning
 - [Topics or technologies you're currently learning or interested in]
