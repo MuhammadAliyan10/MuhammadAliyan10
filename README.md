@@ -36,5 +36,3 @@ I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills 
 - Email or Span: (https://github.com/MuhammadAliyan10/Email_Spam): By using machine learning models, You can check the email is span or not.
 - Search Engine: (https://github.com/MuhammadAliyan10/Search_Engine_Java): By using javafx and google api for developer a small search engine.
 
-## 📝 Activity Graph
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&bg_color=ffffff)
