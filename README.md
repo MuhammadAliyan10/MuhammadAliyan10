@@ -29,7 +29,7 @@ I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills 
 - German: Proficient/Conversational
 
 ## 📫 Contact
-- **LinkedIn**: in/muhammad-aliyan-1900a7275
+- **LinkedIn**: https://www.linkedin.com/in/muhammad-aliyan-1900a7275/
 - **Email**: aliyannadeem10@gmail.com
 
 ## 🚀 Projects
