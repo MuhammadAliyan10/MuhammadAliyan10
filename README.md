@@ -43,10 +43,9 @@ AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificia
 - [Email or Span](https://github.com/MuhammadAliyan10/Email_Spam): By using machine learning models, You can check the email is span or not.
 - [Search Engine](https://github.com/MuhammadAliyan10/Search_Engine_Java): By using javafx and google api for developer a small search engine.
 
-> [!TIP]
-> You can clone these projects and use it on your own.
-
-## ⭐ Review
-<a name="contact">Intrested</a>
-[Interested](#contact)
-
+```python
+user = "You";
+if(user.see()){
+print("Thanks for visiting")
+}
+```
