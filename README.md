@@ -10,9 +10,12 @@ AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificia
 I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Development & Machine Learning.
 
 ## 💼 Skills
-- **Languages**: Python, JavaScript &  Java.
-- **Frameworks/Libraries**: React, Next, Pandas, NumPy, Matplotlib, TensorFlow & Scikit-learn.
-- **Technologies**: AWS, DevOps, MERN Stack, Machine Learning, Deep Learning, Generative AI.
+| Rank | Languages | Frameworks/Libraries |
+|-----:|-----------|----------------------|
+|     1| Java      | OOP, JavaFX,SQL,JavaSwing|
+|     2| Python    | React, Next, MongoDb, NextJS, ExpressJS |
+|     3| JavaScript| Machine Learning, Deep Learning, Generative AI |
+|     4|Shell Scripting|  AWS, DevOps, Ansible, Jenkins, Terraform, Docker |
 
 ## 🌱 Currently Learning
 - Machine Learning & Deep Learning
