@@ -10,12 +10,12 @@ AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificia
 I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Development & Machine Learning.
 
 ## 💼 Skills
-| Rank | Languages | Frameworks/Libraries |  Links  |
-|-----:|-----------|----------------------|----------|
-|     1| Java      | OOP, JavaFX,  SQL,  JavaSwing| [OOP](https://github.com/MuhammadAliyan10/Java_Assignment), [JavaFx & SQL](https://github.com/MuhammadAliyan10/Search_Engine_Java) |
-|     2| Python    | React, Next, MongoDb, NextJS, ExpressJS ||
-|     3| JavaScript| Machine Learning, Deep Learning, Generative AI ||
-|     4|Shell Scripting|  AWS, DevOps, Ansible, Jenkins, Terraform, Docker ||
+| Rank | Languages | Frameworks/Libraries |  Links  | Projects |
+|-----:|-----------|----------------------|----------|----------|
+|     1| Java      | OOP, JavaFX,  SQL,  JavaSwing| [OOP](https://github.com/MuhammadAliyan10/Java_Assignment) | [JavaFx & SQL](https://github.com/MuhammadAliyan10/Search_Engine_Java) |
+|     2| Python    | React, Next, MongoDb, NextJS, ExpressJS | [JavaScript & React](https://github.com/MuhammadAliyan10/Web_Development) ||
+|     3| JavaScript| Machine Learning, Deep Learning, Generative AI | [Machine Learning & Deep Learning](https://github.com/MuhammadAliyan10/Machine_Learning) | [Email or Spam(https://github.com/MuhammadAliyan10/Email_Spam)] |
+|     4|Shell Scripting|  AWS, DevOps, Ansible, Jenkins, Terraform, Docker | [Shell Scripting](https://github.com/MuhammadAliyan10/Sh_Assignment) | [Ansible & Jenkins](https://github.com/MuhammadAliyan10/ansible_jenkins_nginx) |
 
 ## 🌱 Currently Learning
 - Machine Learning & Deep Learning
