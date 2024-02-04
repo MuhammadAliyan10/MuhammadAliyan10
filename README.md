@@ -12,7 +12,7 @@ I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills 
 ## 💼 Skills
 | Rank | Languages | Frameworks/Libraries |  Links  |
 |-----:|-----------|----------------------|----------|
-|     1| Java      | OOP, JavaFX,  SQL,  JavaSwing| OOP(https://github.com/MuhammadAliyan10/Java_Assignment) |
+|     1| Java      | OOP, JavaFX,  SQL,  JavaSwing| [OOP](https://github.com/MuhammadAliyan10/Java_Assignment), [JavaFx & SQL](https://github.com/MuhammadAliyan10/Search_Engine_Java) |
 |     2| Python    | React, Next, MongoDb, NextJS, ExpressJS ||
 |     3| JavaScript| Machine Learning, Deep Learning, Generative AI ||
 |     4|Shell Scripting|  AWS, DevOps, Ansible, Jenkins, Terraform, Docker ||
