@@ -29,7 +29,7 @@ AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificia
 >>>>>**Generative AI:** *Experience with generative adversarial networks (GANs) and other techniques in generative artificial intelligence.*
 
 ## 🌐 Languages
-- [X] Urdu English: Native Proficiency
+- [X] Urdu: Native Proficiency
 - [X] English: Proficient/Fluent
 - [ ] German: Proficient/Conversational
 
