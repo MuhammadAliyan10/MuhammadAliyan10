@@ -31,17 +31,17 @@ AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificia
 >>>>>**Generative AI:** *Experience with generative adversarial networks (GANs) and other techniques in generative artificial intelligence.*
 
 ## 🌐 Languages
-- [X] Urdu: *Native Proficiency*
-- [X] English: *Proficient/Fluent*
-- [ ] German: *Proficient/Conversational*
+- [X] **Urdu**: *Native Proficiency*
+- [X] **English**: *Proficient/Fluent*
+- [ ] **German**: *Proficient/Conversational*
 
 ## 📫 Contact
 - **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
 - **Email**: [aliyannadeem10](aliyannadeem10@gmail.com)
 
 ## 🚀 Projects
-- [*Email or Span*](https://github.com/MuhammadAliyan10/Email_Spam): By using machine learning models, You can check the email is span or not.
-- [*Search Engine*](https://github.com/MuhammadAliyan10/Search_Engine_Java): By using javafx and google api for developer a small search engine.
+- [**Email or Span**](https://github.com/MuhammadAliyan10/Email_Spam): *By using ML model, You can check the email is span or not.*
+- [**Search Engine**](https://github.com/MuhammadAliyan10/Search_Engine_Java): *By using JavaFX and Google API for developer a small search engine.*
   
 
 ```python
