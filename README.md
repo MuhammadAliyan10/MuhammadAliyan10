@@ -12,7 +12,7 @@ I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills 
 ## 💼 Skills
 | Rank | Languages | Frameworks/Libraries |
 |-----:|-----------|----------------------|
-|     1| Java      | OOP, JavaFX,SQL,JavaSwing|
+|     1| Java      | OOP, JavaFX,  SQL,  JavaSwing|
 |     2| Python    | React, Next, MongoDb, NextJS, ExpressJS |
 |     3| JavaScript| Machine Learning, Deep Learning, Generative AI |
 |     4|Shell Scripting|  AWS, DevOps, Ansible, Jenkins, Terraform, Docker |
