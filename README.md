@@ -29,6 +29,7 @@
 >>>**MERN Stack Developer:** *Proficient in MongoDB, Express.js, React.js, Node.js for full-stack web development.*
 >>>>**Machine Learning & Deep Learning:** *Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, PyTorch, scikit-learn, etc.*
 >>>>>**Generative AI:** *Experience with generative adversarial networks (GANs) and other techniques in generative artificial intelligence.*
+>>>>>>
 
 ## 🌐 Languages
 - [X] **Urdu**: *Native Proficiency*
