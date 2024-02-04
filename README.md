@@ -18,8 +18,8 @@ AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificia
 |     4| **Shell Scripting** |  *AWS, DevOps, Ansible, Jenkins, Terraform, Docker* | [Shell Scripting](https://github.com/MuhammadAliyan10/Sh_Assignment) | [Ansible & Jenkins](https://github.com/MuhammadAliyan10/ansible_jenkins_nginx) |
 
 ## 🌱 Currently Learning
- **Machine Learning & Deep Learning**
- <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
+-**Machine Learning & Deep Learning**
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 
 ## 💻 Tech Stack
 >**AWS:** *Proficient in AWS services such as EC2, S3, Lambda, etc.*
