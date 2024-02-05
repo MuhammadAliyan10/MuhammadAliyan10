@@ -13,7 +13,7 @@
 | ID | Languages | Frameworks/Libraries |  Links  | Projects |
 |-----:|-----------|----------------------|----------|----------|
 |     1| **Java**      | *OOP, JavaFX,  SQL,  Java Swing* | [*OOP*](https://github.com/MuhammadAliyan10/Java_Assignment) | [*JavaFX & SQL*](https://github.com/MuhammadAliyan10/Search_Engine_Java) |
-|     2| **JavaScript**    | *React, Next, MongoDb, Express* | [*MERN Stack*](https://github.com/MuhammadAliyan10/Web_Development) | Not Yet |
+|     2| **JavaScript**    | *JavaScript, React, Next, MongoDb, Express* | [*MERN Stack*](https://github.com/MuhammadAliyan10/Web_Development) | [*Web Development*](https://github.com/MuhammadAliyan10/Web_Development) |
 |     3| **Python** | *Machine Learning, Deep Learning, Generative AI* | [*Machine Learning & Deep Learning*](https://github.com/MuhammadAliyan10/Machine_Learning) | [*Email or Spam*](https://github.com/MuhammadAliyan10/Email_Spam) |
 |     4| **Shell Scripting** |  *AWS, DevOps, Ansible, Jenkins, Terraform, Docker* | [*Shell Scripting*](https://github.com/MuhammadAliyan10/Sh_Assignment) | [*Ansible & Jenkins*](https://github.com/MuhammadAliyan10/ansible_jenkins_nginx) |
 
