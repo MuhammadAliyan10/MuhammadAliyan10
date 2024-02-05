@@ -54,5 +54,3 @@ else {
     print("😒");
 }
 ```
-
-[Back On Top](##Contact)
