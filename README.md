@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Muhammad Aliyan Nadeem!
 
 ## 📝 About Me
-**AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificial Intelligence **
+**AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificial Intelligence**
 
 ## 🎓 Education
 *BSCS, University of Lahore, 2nd Year*
