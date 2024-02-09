@@ -27,7 +27,7 @@
 >**AWS:** *Proficient in AWS services such as EC2, S3, Lambda, etc.*
 >>**DevOps:** *Experience with DevOps practices and tools like Docker, Kubernetes, CI/CD pipelines, etc.*
 >>>**MERN Stack Developer:** *Proficient in MongoDB, Express.js, React.js, Node.js for full-stack web development.*
->>>>**Machine Learning & Deep Learning:** *Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, PyTorch, scikit-learn, etc.*
+>>>>**Machine Learning & Deep Learning:** *Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, Pandas, Matplotlib, Seaborn, NumPy,  scikit-learn, etc.*
 
 ## 🌐 Languages
 - [X] **Urdu**: *Native Proficiency*
