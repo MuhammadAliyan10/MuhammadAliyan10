@@ -36,7 +36,6 @@
 
 ## 📫 Contact
 - **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
-- **Email**: [aliyannadeem10](aliyannadeem10@gmail.com)
 
 ## 🚀 Projects
 - [**Email or Span**](https://github.com/MuhammadAliyan10/Email_Spam): *By using ML model, You can check the email is span or not.*
