@@ -38,8 +38,7 @@
 - **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
 
 ## 🚀 Projects
-- [**Email or Span**](https://github.com/MuhammadAliyan10/Email_Spam): *By using ML model, You can check the email is span or not.*
-- [**Search Engine**](https://github.com/MuhammadAliyan10/Search_Engine_Java): *By using JavaFX and Google API for developer a small search engine.*
+- [**Web Development**](https://github.com/users/MuhammadAliyan10/projects/1).
   
 
 ```python
