@@ -4,7 +4,7 @@
 **AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificial Intelligence**
 
 ## 🎓 Education
-*BSCS, University of Lahore*
+*BSCS from University of Lahore*
 
 ## 🌟 Bio
 *I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Development & Machine Learning.*
