@@ -29,6 +29,19 @@
 >>>**MERN Stack Developer:** *Proficient in MongoDB, Express.js, React.js, Node.js for full-stack web development.*
 >>>>**Machine Learning & Deep Learning:** *Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, Pandas, Matplotlib, Seaborn, NumPy,  scikit-learn, etc.*
 
+## Summary
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangly1024&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangly1024&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tangly1024&theme=github" />
+  </a>
+</div>
+
 ## 🌐 Languages
 - [X] **Urdu**: *Native Proficiency*
 - [X] **English**: *Proficient/Fluent*
