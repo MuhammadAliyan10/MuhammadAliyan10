@@ -32,13 +32,13 @@
 ## 🗒️ Summary
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAliyan10&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAliyan10&theme=2077" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAliyan10&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAliyan10&theme=2077" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAliyan10&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAliyan10&theme=2077" />
   </a>
 </div>
 
