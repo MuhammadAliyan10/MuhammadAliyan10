@@ -13,8 +13,8 @@
 | ID | Languages | Frameworks/Libraries |  Links  | Projects |
 |-----:|-----------|----------------------|----------|----------|
 |     1| **Java**      | *OOP, DSA, JavaFX,  SQL,  Java Swing* | [*OOP*](https://github.com/MuhammadAliyan10/Java_Assignment), [*DSA*](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) | [*JavaFX & SQL*](https://github.com/MuhammadAliyan10/Search_Engine_Java) |
-|     2| **JavaScript**    | *JavaScript, DSA, React, Next, MongoDb, Express* | [*MERN Stack*](https://github.com/MuhammadAliyan10/Web_Development),[*DSA*](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) | [*Web Development*](https://github.com/MuhammadAliyan10/Web_Development) |
-|     3| **Python** | *Machine Learning, Deep Learning, DSA* | [*Machine Learning & Deep Learning*](https://github.com/MuhammadAliyan10/Machine_Learning),[*DSA*](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) | [*Email or Spam*](https://github.com/MuhammadAliyan10/Email_Spam) |
+|     2| **JavaScript**    | *JavaScript, DSA, React, Next, MongoDb, Express* | [*MERN Stack*](https://github.com/MuhammadAliyan10/Web_Development), [*DSA*](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) | [*Web Development*](https://github.com/MuhammadAliyan10/Web_Development) |
+|     3| **Python** | *Machine Learning, Deep Learning, DSA* | [*Machine Learning & Deep Learning*](https://github.com/MuhammadAliyan10/Machine_Learning), [*DSA*](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) | [*Email or Spam*](https://github.com/MuhammadAliyan10/Email_Spam) |
 |     4| **Shell Scripting** |  *AWS, DevOps, Ansible, Jenkins, Terraform, Docker* | [*Shell Scripting*](https://github.com/MuhammadAliyan10/Sh_Assignment) | [*Ansible & Jenkins*](https://github.com/MuhammadAliyan10/ansible_jenkins_nginx) |
 
 ## 🌱 Currently Learning
