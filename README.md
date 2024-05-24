@@ -29,19 +29,6 @@
 >>>**MERN Stack Developer:** *Proficient in MongoDB, Express.js, React.js, Node.js for full-stack web development.*
 >>>>**Machine Learning & Deep Learning:** *Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, Pandas, Matplotlib, Seaborn, NumPy,  scikit-learn, etc.*
 
-## 🗒️ Summary
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAliyan10&theme=2077" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAliyan10&theme=2077" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAliyan10&theme=2077" />
-  </a>
-</div>
-
 ## 🌐 Languages
 - [X] **Urdu**: *Native Proficiency*
 - [X] **English**: *Proficient/Fluent*
@@ -51,10 +38,10 @@
 - **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
 
 ## 📑 Resume
-- **Portfolio**: [www.aliyanportfolio.com](https://aliyan-portfolio-5cop5qcgj-muhammadaliyan10s-projects.vercel.app/)
+- **Portfolio**: [Portfolio](https://aliyan-portfolio-5cop5qcgj-muhammadaliyan10s-projects.vercel.app/)
 
 ## 🚀 Projects
-- [**Web Development**](https://github.com/users/MuhammadAliyan10/projects/1).
+- [**Web Development**](https://github.com/users/MuhammadAliyan10/projects/1)
   
 
 ```python
