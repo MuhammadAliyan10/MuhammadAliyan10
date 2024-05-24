@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Muhammad Aliyan Nadeem!
 
 ## 📝 About Me
-**AWS DevOps | MERN Stack Developer | Machine Learning | Deep Learning | Artificial Intelligence**
+**AWS DevOps | MERN Stack Developer | Machine Learning**
 
 ## 🎓 Education
 *BSCS from University of Lahore*
@@ -49,6 +49,9 @@
 
 ## 📫 Contact
 - **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
+
+## 📑 Resume
+- **Portfolio**: [www.aliyanportfolio.com](https://aliyan-portfolio-5cop5qcgj-muhammadaliyan10s-projects.vercel.app/)
 
 ## 🚀 Projects
 - [**Web Development**](https://github.com/users/MuhammadAliyan10/projects/1).
