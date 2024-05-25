@@ -38,7 +38,7 @@
 - **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
 
 ## 📑 Resume
-- **Portfolio**: [Portfolio](https://aliyan-portfolio-5cop5qcgj-muhammadaliyan10s-projects.vercel.app/)
+- **Portfolio**: [Portfolio](https://aliyan-portfolio-six.vercel.app/)
 
 ## 🚀 Projects
 - [**Web Development**](https://github.com/users/MuhammadAliyan10/projects/1)
