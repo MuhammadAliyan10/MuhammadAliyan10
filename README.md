@@ -2,9 +2,75 @@
 
 ## 📝 About Me
 
+**AWS DevOps | MERN Stack Developer | Machine Learning**
+
+## 💻 Languages & Libraries
+
+<br>
+
 <p align="center">
-  <a href="https://github.com/MuhammadAliyan10"><img src="https://readme-typing-svg.herokuapp.com?color=red&lines=Java;Python;JavaScript;TypeScript;MERN+Stack;MongoDB;SQL;DSA;OOP;DevOps;Cloud+Computing;NextJs;ReactJS;NodeJS;ExpressJS;CMS;Payload&center=true&width=380&height=40"></a>
-</p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="36" height="36" alt="javascript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="36" height="36" alt="typescript" /></a>
+<br>
+<hr>
+<br>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="react" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36" height="36" alt="next" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="36" height="36" alt="nodejs" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" height="36" alt="nodejs" /></a>
+<br>
+<hr>
+<br>
+<p align="right">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" alt="nodejs" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" height="36" alt="flask" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="git" /></a>
+<br>
+<hr>
+<br>
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="Mongodb"/></a>
+<br>
+<hr>
+<br>
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Docker" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ubuntu" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Mongodb"/></a>
+<br>
+<hr>
+<br>
+<p align="right">
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="aws" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" height="36" alt="Docker" /></a>
+<br>
+<hr>
+<br>
+<p align="center">
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" height="36" alt="Nginx" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="36" height="36" alt="ansible" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=terraform" width="36" height="36" alt="Mongodb"/></a>
+<br>
+<hr>
+<br>
+<p align="left">
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="git" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="git" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="36" height="36" alt="Linux" /></a>
+<br>
+<hr>
+<br>
+<p align="right">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="Mongodb"/></a>
 
 ## 🎓 Education
 
