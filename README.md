@@ -34,6 +34,14 @@
 <br/>
 
 
+
+<p align="center">
+  <a href="https://github.com/HashirAbdulah">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashirAbdulah&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+
 ![Aliyan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&custom_title=Aliyan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
