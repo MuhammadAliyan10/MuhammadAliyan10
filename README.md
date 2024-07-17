@@ -36,8 +36,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/HashirAbdulah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashirAbdulah&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/MuhammadAliyan10">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashirAbdulah&theme=radical&border=7F3FBF&background=0D1117" alt="Aliyan's GitHub streak"/>
   </a>
 </p>
 
