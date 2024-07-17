@@ -36,6 +36,7 @@
 
 ## 📫 Contact
 - **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
+- **Email**: aliyannadeem10@gmail.com
 
 ## 📑 Resume
 - **Portfolio**: [Portfolio](https://aliyan-portfolio-six.vercel.app/)
