@@ -30,7 +30,7 @@
 >>>>**Machine Learning & Deep Learning:** *Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, Pandas, Matplotlib, Seaborn, NumPy,  scikit-learn, etc.*
 
 
-![Aliyan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Aliyan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&custom_title=Aliyan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
