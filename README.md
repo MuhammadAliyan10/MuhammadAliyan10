@@ -57,10 +57,11 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 |   4 | **Shell Scripting** | _AWS, DevOps, Ansible, Jenkins, Terraform, Docker_ | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  | [_Ansible & Jenkins_](https://github.com/MuhammadAliyan10/ansible_jenkins_nginx) |
 
 ## 🌱 Currently Learning
-
+<p align="left">
 - _Web Development_
 - _Data Structures and Algorithms_
 - _Machine Learning & Deep Learning_
+</p>
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right">
 
 ## 💻 Tech Stack
