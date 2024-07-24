@@ -45,7 +45,7 @@ _BSCS from University of Lahore_
 
 ## 🌟 Bio
 
-_I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Development & Machine Learning._
+_I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Development & Machine Learning_
 
 ## 💼 Skills
 
