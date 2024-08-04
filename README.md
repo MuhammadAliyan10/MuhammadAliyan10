@@ -7,7 +7,6 @@
 ## 💻 Languages & Libraries
 
 <br>
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="36" height="36" alt="javascript" /></a>
@@ -41,7 +40,8 @@
 
 ## 🎓 Education
 
-_BSCS from University of Lahore_
+- _ICT from The Hope College_
+- _BSCS from University of Lahore_
 
 ## 🌟 Bio
 
