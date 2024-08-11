@@ -2,7 +2,7 @@
 
 ## 📝 About Me
 
-**AWS DevOps | MERN Stack Developer | Machine Learning**
+**AWS DevOps | Full Stack Developer | Machine Learning**
 
 ## 💻 Languages & Libraries
 
