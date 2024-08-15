@@ -38,6 +38,18 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" width="36" height="36" alt="Mongodb"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="Mongodb"/></a>
 
+
+## 🧑🏻‍💻 Experience
+
+- **AWS DevOps Intern**  
+  *Sep 2023 - Jan 2024*  
+  _Gained hands-on experience in AWS cloud services, continuous integration, and continuous deployment (CI/CD) pipelines. Contributed to automating infrastructure and improving system reliability._
+
+- **MERN Stack Developer | PaceDream Team**  
+  *Jul 2024 - Present*  
+ _ Leading full-stack web development projects using MongoDB, Express, React, and Node.js. Collaborating on cutting-edge applications with a focus on responsive design and efficient backend solutions._
+
+
 ## 🎓 Education
 
 - _ICT from The Hope College_
