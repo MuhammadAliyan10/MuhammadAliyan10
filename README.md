@@ -154,7 +154,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliyan10&theme=dark&count_private=true&hide_border=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&custom_title=Aliyan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&theme=github-compact"/>
 
 <a href="https://github.com/MuhammadAliyan"><img alt="Aliyan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliyan10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="300px"/></a>
 </p>
