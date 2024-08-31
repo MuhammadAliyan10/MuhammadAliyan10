@@ -1,184 +1,133 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm Muhammad Aliyan Nadeem! 🇵🇰
 
----
+## 📝 About Me
 
-### 📝 About Me
+**AWS DevOps | Full Stack Developer | Machine Learning**
 
-**AWS DevOps | Full Stack Developer | Machine Learning Enthusiast**
+## 💻 Languages & Libraries
 
----
+<br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="36" height="36" alt="javascript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="36" height="36" alt="typescript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="react" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36" height="36" alt="next" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="36" height="36" alt="nodejs" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" height="36" alt="nodejs" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" alt="nodejs" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" height="36" alt="flask" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Docker" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ubuntu" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Mongodb"/>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="aws" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" height="36" alt="Nginx" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="36" height="36" alt="ansible" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=terraform" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="git" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="git" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="36" height="36" alt="Linux" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="Mongodb"/></a>
 
-### 💻 Languages & Libraries
-
-<p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="36" height="36" alt="javascript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="36" height="36" alt="typescript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" height="36" alt="react" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36" height="36" alt="next.js" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="36" height="36" alt="redux" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" height="36" alt="tailwind css" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="express" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" alt="node.js" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" height="36" alt="flask" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="firebase" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" alt="mongodb" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" height="36" alt="mysql" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="36" height="36" alt="linux" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="36" height="36" alt="ubuntu" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="36" height="36" alt="bash" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="36" height="36" alt="aws" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="36" height="36" alt="kubernetes" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" height="36" alt="docker" />
-  </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" height="36" alt="nginx" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="36" height="36" alt="ansible" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="36" height="36" alt="terraform" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="git" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="github" />
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="36" height="36" alt="jenkins" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="36" height="36" alt="tensorflow" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="36" height="36" alt="pytorch" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="36" height="36" alt="sklearn" />
-  </a>
-</p>
-
----
-
-### 🎓 Education
+## 🎓 Education
 
 - _ICT from The Hope College_
 - _BSCS from University of Lahore_
 
----
+## 🌟 Bio
 
-### 🌟 Bio
+_I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Development & Machine Learning_
 
-_I'm currently pursuing a BSCS at the University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Development & Machine Learning._
-
----
-
-### 🧑🏻‍💻 Experience
+## 🧑🏻‍💻 Experience
 
 - **AWS DevOps Intern**
-  > *Sep 2023 - Jan 2024*
-  > > _Gained hands-on experience in AWS cloud services, CI/CD pipelines, and system reliability._
+  > _Sep 2023 - Jan 2024_
+  >
+  > > _Gained hands-on experience in AWS cloud services, continuous integration, and continuous deployment (CI/CD) pipelines. Contributed to automating infrastructure and improving system reliability._
 
+ <hr/>
+ 
 - **MERN Stack Developer | PaceDream Team**  
-  > *Jul 2024 - Present*  
-  > > _Leading full-stack development projects using MongoDB, Express, React, and Node.js._
+> *Jul 2024 - Present*  
+> > _Leading full-stack web development projects using MongoDB, Express, React, and Node.js. Collaborating on cutting-edge applications with a focus on responsive design and efficient backend solutions._
 
----
-
-### 💼 Skills
+## 💼 Skills
 
 |  ID | Languages           | Frameworks/Libraries                               | Links                                                                                                                                                                   | Projects                                                                         |
-|-----|---------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|  1  | Python, Java, JavaScript | React, Node.js, TensorFlow, Tailwind CSS, Kubernetes, Docker | [GitHub](https://github.com/username) \| [LinkedIn](https://linkedin.com/in/username) \| [Portfolio](https://username.github.io)                                        | _Personal Portfolio, E-commerce Store, Machine Learning Projects_                |
-|  2  | C++, SQL, TypeScript    | Flask, Express, Firebase, Ansible, Terraform         | [GitHub](https://github.com/username) \| [LinkedIn](https://linkedin.com/in/username) \| [Portfolio](https://username.github.io)                                        | _DevOps Scripts, Automation Projects, Full-Stack Web Applications_               |
-|  3  | HTML/CSS, Bash         | Redux, Next.js, Jenkins, Nginx, Git                  | [GitHub](https://github.com/username) \| [LinkedIn](https://linkedin.com/in/username) \| [Portfolio](https://username.github.io)                                        | _Responsive Web Designs, Cloud Infrastructure Setup, CI/CD Pipelines_             |
+| --: | ------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+|   1 | **Java**            | _OOP, DSA, JavaFX, SQL, Java Swing_                | [_OOP_](https://github.com/MuhammadAliyan10/Java_Assignment), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                               | [_JavaFX & SQL_](https://github.com/MuhammadAliyan10/Search_Engine_Java)         |
+|   2 | **JavaScript**      | _JavaScript, DSA, React, Next, MongoDb, Express_   | [_MERN Stack_](https://github.com/MuhammadAliyan10/Web_Development), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                        | [_Web Development_](https://github.com/MuhammadAliyan10/Web_Development)         |
+|   3 | **Python**          | _Machine Learning, Deep Learning, DSA_             | [_Machine Learning & Deep Learning_](https://github.com/MuhammadAliyan10/Machine_Learning), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) | [_Email or Spam_](https://github.com/MuhammadAliyan10/Email_Spam)                |
+|   4 | **Shell Scripting** | _AWS, DevOps, Ansible, Jenkins, Terraform, Docker_ | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  | [_Ansible & Jenkins_](https://github.com/MuhammadAliyan10/ansible_jenkins_nginx) |
 
----
+## 🌱 Currently Learning
 
-### 📖 Currently Learning
+- _Machine Learning & Deep Learning_ <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" height="400px" align="center">
 
-- **AI in Car Design Modeling**
-- **Robotics Engineering**
+## 💻 Tech Stack
 
----
+> **AWS:** _Proficient in AWS services such as EC2, S3, Lambda, etc._
+>
+> > **DevOps:** _Experience with DevOps practices and tools like Docker, Kubernetes, CI/CD pipelines, etc._
+> >
+> > > **MERN Stack Developer:** _Proficient in MongoDB, Express.js, React.js, Node.js for full-stack web development._
+> > >
+> > > > **Machine Learning & Deep Learning:** _Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, Pandas, Matplotlib, Seaborn, NumPy, scikit-learn, etc._
 
-### 🚀 Tech Stack
+<br/>
+<hr/>
+<br/>
 
-**Frontend:** React, Next.js, Tailwind CSS, JavaScript, HTML/CSS  
-**Backend:** Node.js, Express.js, Python (Flask)  
-**Database:** MongoDB, MySQL  
-**DevOps:** AWS, Kubernetes, Docker, Jenkins, Terraform  
-**Machine Learning:** TensorFlow, PyTorch, scikit-learn  
+<p align="center">
+  <a href="https://github.com/MuhammadAliyan10">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliyan10&theme=radical&border=7F3FBF&background=0D1117" alt="Aliyan's GitHub streak"/>
+  </a>
+</p>
 
----
+![Aliyan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&custom_title=Aliyan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-### 🌐 Languages
+<a href="https://github.com/MuhammadAliyan"><img alt="Aliyan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliyan10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="90.5%"/></a>
+<br/>
+</a>
 
-- **JavaScript**: Proficient  
-- **Python**: Advanced  
-- **Java**: Intermediate  
-- **C++**: Intermediate
+<br/>
+<hr/>
+<br/>
 
----
+## 🌐 Languages
 
-### 📞 Contact
+- [x] **Urdu**: _Native Proficiency_
+- [x] **English**: _Proficient/Fluent_
+- [ ] **German**: _Proficient/Conversational_
 
-- **Email**: [example@example.com](mailto:example@example.com)  
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/username)  
-- **GitHub**: [GitHub Profile](https://github.com/username)
+## 📫 Contact
 
----
+- **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
+- **Email**: aliyannadeem10@gmail.com
 
-### 📄 Resume
+## 📑 Resume
 
-[Download My Resume](https://example.com/resume.pdf)
+- **Portfolio**: [Portfolio](https://aliyan-portfolio-six.vercel.app/)
 
----
+## 🚀 Projects
 
-### 🛠 Projects
+- [**Web Development**](https://github.com/users/MuhammadAliyan10/projects/1)
 
-- **Personal Portfolio**: A showcase of my development skills and projects.
-- **E-commerce Store**: A full-stack web application with features like product search, cart management, and secure checkout.
-- **Machine Learning Projects**: Various projects demonstrating skills in AI, ML, and data science.
+```python
+user = "You";
+if (user.see()) {
+    print("Thanks for visiting.")
+}
+else {
+    print("😒");
+}
+```
