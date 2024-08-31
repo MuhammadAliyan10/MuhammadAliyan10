@@ -149,11 +149,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/MuhammadAliyan10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliyan10&theme=radical&border=7F3FBF&background=0D1117" alt="Aliyan's GitHub streak"/>
-  </a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliyan10&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![Aliyan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&custom_title=Aliyan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
