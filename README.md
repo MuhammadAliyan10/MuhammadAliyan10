@@ -7,36 +7,93 @@
 ## 💻 Languages & Libraries
 
 <br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="36" height="36" alt="javascript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="36" height="36" alt="typescript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="react" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36" height="36" alt="next" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="36" height="36" alt="nodejs" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" height="36" alt="nodejs" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="express" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" alt="nodejs" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" height="36" alt="flask" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="Mongodb"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="Mongodb"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Docker" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ubuntu" width="36" height="36" alt="Mongodb"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Mongodb"/>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="aws" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" width="36" height="36" alt="Mongodb"/></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" height="36" alt="Nginx" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="36" height="36" alt="ansible" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=terraform" width="36" height="36" alt="Mongodb"/></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="git" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="git" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="36" height="36" alt="Linux" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" width="36" height="36" alt="Mongodb"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36" alt="Mongodb"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" width="36" height="36" alt="Mongodb"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="Mongodb"/></a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="36" height="36" alt="javascript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="36" height="36" alt="typescript" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" height="36" alt="react" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36" height="36" alt="next.js" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="36" height="36" alt="redux" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" height="36" alt="tailwind css" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="express" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" alt="node.js" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" height="36" alt="flask" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="firebase" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" alt="mongodb" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" height="36" alt="mysql" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="36" height="36" alt="linux" />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="36" height="36" alt="ubuntu" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="36" height="36" alt="bash" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="36" height="36" alt="aws" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="36" height="36" alt="kubernetes" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" height="36" alt="docker" />
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" height="36" alt="nginx" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="36" height="36" alt="ansible" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="36" height="36" alt="terraform" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="git" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="github" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="36" height="36" alt="jenkins" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="36" height="36" alt="tensorflow" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="36" height="36" alt="pytorch" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="36" height="36" alt="sklearn" />
+  </a>
 
 ## 🎓 Education
 
@@ -53,12 +110,12 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
   > _Sep 2023 - Jan 2024_
   >
   > > _Gained hands-on experience in AWS cloud services, continuous integration, and continuous deployment (CI/CD) pipelines. Contributed to automating infrastructure and improving system reliability._
-
- <hr/>
  
 - **MERN Stack Developer | PaceDream Team**  
 > *Jul 2024 - Present*  
 > > _Leading full-stack web development projects using MongoDB, Express, React, and Node.js. Collaborating on cutting-edge applications with a focus on responsive design and efficient backend solutions._
+
+<hr/>
 
 ## 💼 Skills
 
