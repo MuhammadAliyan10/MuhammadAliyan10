@@ -156,9 +156,6 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&theme=github-compact"/>
 
-<a href="https://github.com/MuhammadAliyan"><img alt="Aliyan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliyan10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="300px"/></a>
-</p>
-
 <br/>
 <hr/>
 <br/>
