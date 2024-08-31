@@ -71,7 +71,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 ## 🌱 Currently Learning
 
-- _Machine Learning & Deep Learning_ <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" height="400px" align="center">
+- _Machine Learning & Deep Learning_ <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" height="380px" align="right">
 
 ## 💻 Tech Stack
 
