@@ -74,6 +74,9 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 - _Machine Learning & Deep Learning_
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
+ <a href="https://github.com/MuhammadAliyan"><img alt="Aliyan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliyan10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 ## 💻 Tech Stack
 
