@@ -71,7 +71,11 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 ## 🌱 Currently Learning
 
-- _Machine Learning & Deep Learning_ <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" height="380px" align="right">
+- _Machine Learning & Deep Learning_
+- _Electron JS_
+- _Ethical Hacking_
+  
+- <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 
 ## 💻 Tech Stack
 
@@ -79,7 +83,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 >
 > > **DevOps:** _Experience with DevOps practices and tools like Docker, Kubernetes, CI/CD pipelines, etc._
 > >
-> > > **MERN Stack Developer:** _Proficient in MongoDB, Express.js, React.js, Node.js for full-stack web development._
+> > > **MERN Stack Developer:** _Proficient in MongoDB, Express.js, React.js,Next js, Node.js for full-stack web development._
 > > >
 > > > > **Machine Learning & Deep Learning:** _Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, Pandas, Matplotlib, Seaborn, NumPy, scikit-learn, etc._
 
@@ -95,7 +99,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 ![Aliyan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&custom_title=Aliyan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<a href="https://github.com/MuhammadAliyan"><img alt="Aliyan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliyan10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="90.5%"/></a>
+<a href="https://github.com/MuhammadAliyan"><img alt="Aliyan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliyan10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="300px"/></a>
 <br/>
 </a>
 
