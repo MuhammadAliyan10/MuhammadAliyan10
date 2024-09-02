@@ -6,10 +6,20 @@
 
 **AWS DevOps | Full Stack Developer | Machine Learning**
 
-## 💻 Languages & Libraries
+## 💻 Tech Stack
 
 <br>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+
+
+
+
+
+
+
+
+<!--  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" />
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -95,7 +105,7 @@
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="36" height="36" alt="sklearn" />
-  </a>
+  </a> -->
 
 ## 🎓 Education
 
