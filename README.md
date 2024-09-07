@@ -4,7 +4,7 @@
 
 ## 📝 About Me
 
-**AWS DevOps | Full Stack Developer | Machine Learning**
+**AWS DevOps | Full Stack Developer | Generative AI Engineer**
 
 ## 💻 Tech Stack
 
