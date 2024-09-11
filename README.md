@@ -158,8 +158,6 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliyan10&theme=dark&count_private=true&hide_border=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliyan10&theme=github-compact"/>
-
 <br/>
 <hr/>
 <br/>
