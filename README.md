@@ -139,6 +139,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 - _Machine Learning & Deep Learning_
 - _Ethical Hacking_
+- _Linear Algebra & Physics_
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 
 
