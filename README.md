@@ -4,7 +4,7 @@
 
 ## 📝 About Me
 
-**AWS DevOps | Full Stack Developer | Generative AI Engineer**
+**Robotics Engineer | AI & Machine Learning Expert | Specializing in Autonomous Systems & Robotics Software Development**
 
 ## 💻 Tech Stack
 
@@ -110,7 +110,7 @@
 
 ## 🌟 Bio
 
-_I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java & SQL. Outside of academia, I'm deeply involved in Development & Machine Learning_
+_I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java & SQL. Outside of academia, I'm deeply involved in Robotics & Machine Learning_
 
 ## 🧑🏻‍💻 Experience
 
@@ -137,7 +137,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 ## 🌱 Currently Learning
 
-- _Machine Learning & Deep Learning_
+- _Robotics_
 - _Ethical Hacking_
 - _Linear Algebra & Physics_
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
