@@ -134,6 +134,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 |   2 | **Java/TypeScript**      | _JavaScript, DSA, React, Next, MongoDb, Express_   | [_MERN Stack_](https://github.com/MuhammadAliyan10/Web_Development), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                        | [_Web Development_](https://github.com/MuhammadAliyan10/Web_Development)         |
 |   3 | **Python**          | _Machine Learning, Deep Learning, DSA_             | [_Machine Learning & Deep Learning_](https://github.com/MuhammadAliyan10/Machine_Learning), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) | [_Email or Spam_](https://github.com/MuhammadAliyan10/Email_Spam)                |
 |   4 | **Shell Scripting** | _AWS, DevOps, Ansible, Jenkins, Terraform, Docker_ | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  | [_Ansible & Jenkins_](https://github.com/MuhammadAliyan10/ansible_jenkins_nginx) |
+|   4 | **Ethical Hacking** | _Computer Networking, OS, Linux, Ddos Attacks_ | Null                                                                                                  | [_Hacking_](https://github.com/MuhammadAliyan10/Ethical-Hacking.git) |
 
 ## 🌱 Currently Learning
 
