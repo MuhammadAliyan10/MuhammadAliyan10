@@ -4,7 +4,7 @@
 
 ## 📝 About Me
 
-**Robotics Engineer | AI & Machine Learning Expert | Specializing in Autonomous Systems & Robotics Software Development**
+**Ethical Hacking | AI & Machine Learning Expert | Specializing in Autonomous Systems & Robotics Software Development**
 
 ## 💻 Tech Stack
 
