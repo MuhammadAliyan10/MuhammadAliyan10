@@ -4,7 +4,7 @@
 
 ## 📝 About Me
 
-**Ethical Hacking | AI & Machine Learning | Specializing in Autonomous Systems & Robotics Software Development**
+**White Hat | Learning AI & Machine Learning | Specializing in Autonomous Systems & Embedded Programming**
 
 ## 💻 Tech Stack
 
