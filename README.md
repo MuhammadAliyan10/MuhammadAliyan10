@@ -4,7 +4,7 @@
 
 ## 📝 About Me
 
-**White Hat | Learning AI & Machine Learning | Specializing in Autonomous Systems & Embedded Programming**
+**MERN STACK | Learning AI & Machine Learning | Specializing in Autonomous Systems & Embedded Programming**
 
 ## 💻 Tech Stack
 
