@@ -4,7 +4,7 @@
 
 ## 📝 About Me
 
-**MERN STACK | Learning AI & Machine Learning | Specializing in Autonomous Systems & Embedded Programming**
+**MERN STACK & React-Native | Learning AI & Machine Learning | Specializing in Autonomous Systems & Embedded Programming**
 
 ## 💻 Tech Stack
 
