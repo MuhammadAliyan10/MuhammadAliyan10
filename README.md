@@ -4,7 +4,7 @@
 
 ## 📝 About Me
 
-**MERN STACK & React-Native | Learning AI-DL & Machine Learning | Specializing in Autonomous Systems & Embedded Programming**
+**Learning AI-DL & Machine Learning | Specializing in Astrophysics & Quantum Mechanics**
 
 ## 💻 Tech Stack
 
@@ -142,8 +142,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 ## 🌱 Currently Learning
 
-- _Robotics_
-- _Ethical Hacking_
+- _Astrophysics & Quantum Mechanics_
 - _Linear Algebra & Physics_
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 
