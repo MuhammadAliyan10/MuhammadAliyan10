@@ -4,7 +4,7 @@
 
 ## 📝 About Me
 
-**Learning AI-DL & Machine Learning | Specializing in Astrophysics & Quantum Mechanics**
+**Learning Machine & Deep Learning | Specializing in Quantum Mechanics**
 
 ## 💻 Tech Stack
 
