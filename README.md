@@ -4,7 +4,7 @@
 
 ## 📝 About Me
 
-**Learning Machine & Deep Learning | Specializing in Quantum Mechanics**
+**Learning Machine & Deep Learning | Specializing in Quantum Mechanics | FULL Stack Web & App Developer | AWS DevOps**
 
 ## 💻 Tech Stack
 
@@ -130,7 +130,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 |  ID | Languages           | Frameworks/Libraries                               | Links                                                                                                                                                                   | Projects                                                                         |
 | --: | ------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-|   1 | **Java**            | _OOP, DSA, JavaFX, SQL, Java Swing_                | [_OOP_](https://github.com/MuhammadAliyan10/Java_Assignment), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                               | [_JavaFX & SQL_](https://github.com/MuhammadAliyan10/Search_Engine_Java)         |
+|   1 | **Java**            | _OOP, DSA, JavaFX, SQL, Java Swing, LeetCode_                | [_OOP_](https://github.com/MuhammadAliyan10/Java_Assignment), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                               | [_JavaFX & SQL_](https://github.com/MuhammadAliyan10/Search_Engine_Java)         |
 |   2 | **Java/TypeScript**      | _JavaScript, DSA, React, Next, MongoDb, Express_   | [_MERN Stack_](https://github.com/MuhammadAliyan10/Web_Development), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                        | [_Web Development_](https://github.com/MuhammadAliyan10/Web_Development)         |
 |   3 | **Python**          | _Machine Learning, Deep Learning, DSA, Bots, Compiler_             | [_Machine Learning & Deep Learning_](https://github.com/MuhammadAliyan10/Machine_Learning), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) | [_Email or Spam_](https://github.com/MuhammadAliyan10/Email_Spam)                |
 |   4 | **Shell Scripting** | _AWS, DevOps, Ansible, Jenkins, Terraform, Docker_ | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  | [_Ansible & Jenkins_](https://github.com/MuhammadAliyan10/ansible_jenkins_nginx) |
@@ -153,8 +153,8 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 >
 > > **DevOps:** _Experience with DevOps practices and tools like Docker, Kubernetes, CI/CD pipelines, etc._
 > >
-> > > **MERN Stack Developer:** _Proficient in MongoDB, Express.js, React.js,Next js, Node.js for full-stack web development._
-> > >
+> > > **MERN Stack Developer:** _Proficient in MongoDB, Express.js, Postgress SQL, Hooks, SaaS, TypeScript, React js, Next js, Node.js for full-stack web & app development._
+> > > 
 > > > > **Machine Learning & Deep Learning:** _Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, Pandas, Matplotlib, Seaborn, NumPy, scikit-learn, etc._
 
 <br/>
