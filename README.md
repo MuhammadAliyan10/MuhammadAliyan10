@@ -124,6 +124,10 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
   > > _Leading full-stack web development projects using MongoDB, Express, React, and Node.js. Collaborating on cutting-edge applications with a focus on responsive design and 
   efficient backend solutions._
 
+- **Solo Developer | FIDORA Team**  
+  > *Agu 2025 - Current*  
+  > > _Solo develper and founder of FIDROA providing services like Web Development, App Development, AWS Cloud Computing, Desktop Software, AI integration and solution._
+
 <hr/>
 
 ## 💼 Skills
@@ -153,7 +157,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 >
 > > **DevOps:** _Experience with DevOps practices and tools like Docker, Kubernetes, CI/CD pipelines, etc._
 > >
-> > > **MERN Stack Developer:** _Proficient in MongoDB, Express.js, Postgress SQL, Hooks, SaaS, TypeScript, React js, Next js, Node.js for full-stack web & app development._
+> > > **MERN Stack APP & WEB Developer:** _Proficient in MongoDB, Express.js, Postgress SQL, Hooks, SaaS, TypeScript, React js, Next js, React Native, Node.js for full-stack web & app development._
 > > > 
 > > > > **Machine Learning & Deep Learning:** _Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, Pandas, Matplotlib, Seaborn, NumPy, scikit-learn, etc._
 
@@ -175,8 +179,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 ## 📑 Resume
 
-- **Portfolio**: [Portfolio](https://aliyan-portfolio-six.vercel.app/)
-
+- **Portfolio**: [Portfolio](https://fidora.vercel.app/)
 ## 🚀 Projects
 
 - [**Web Development**](https://github.com/users/MuhammadAliyan10/projects/1)
