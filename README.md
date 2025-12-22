@@ -181,20 +181,20 @@ _I design and engineer complex software systems with a strong focus on performan
 <hr/>
 <br/>
 
-## 🌐 Languages
+## Languages
 
 - [x] **Urdu**: _Native Proficiency_
 - [x] **English**: _Proficient/Fluent_
 - [ ] **German**: _Proficient/Conversational_
 
-## 📫 Contact
+## Contact
 
 - **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
 - **Email**: aliyannadeem10@gmail.com
 
-## 📑 Resume
+## Resume
 
-- **Portfolio**: [Portfolio](https://aliyan-portfolio-six.vercel.app/)
+- **Resume**: [Resume](https://www.canva.com/design/DAG8IwKagDc/IZjSMy7sEsHkbZxlhpZ63g/edit?utm_content=DAG8IwKagDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ```python
 class Developer:
