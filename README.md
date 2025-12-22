@@ -2,24 +2,22 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm Muhammad Aliyan Nadeem! 🇵🇰
 
-## 📝 About Me
+## About Me
 
-**Learning AI-DL & Machine Learning | Specializing in Astrophysics & Quantum Mechanics**
+**Software Engineer | DevOps & Cloud Architect | RPA & Quantum Computing Researcher**
 
-## 💻 Tech Stack
+## Tech Stack
 
 <br/>
 
-
-<!-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
-
-
-
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=go&theme=dark" width="36" height="36" alt="go" />
+  </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" />
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=java&theme=light" width="36" height="36" alt="Java" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="36" height="36" alt="javascript" />
@@ -29,6 +27,12 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" height="36" alt="react" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="36" height="36" alt="react" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="36" height="36" alt="react" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36" height="36" alt="next.js" />
@@ -54,6 +58,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" alt="mongodb" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="36" height="36" alt="mongodb" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" height="36" alt="mysql" />
   </a>
@@ -68,6 +75,12 @@
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="36" height="36" alt="aws" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="36" height="36" alt="aws" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="36" height="36" alt="aws" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="36" height="36" alt="kubernetes" />
@@ -90,6 +103,9 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="github" />
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="36" height="36" alt="github" />
+  </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="36" height="36" alt="jenkins" />
   </a>
@@ -103,38 +119,52 @@
     <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="36" height="36" alt="sklearn" />
   </a>
 
-## 🎓 Education
+## Education
 
-- _ICT from The Hope College_
-- _BSCS from University of Lahore_
+- **Bachelor in Computer Science**
+  - _2022 - 2026_
+  - **The University of Lahore**
+- **Information and Communication Technology**
+  - _2018 - 2020_
+  - **The Hope College**
 
-## 🌟 Bio
+## Bio
 
-_I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java & SQL. Outside of academia, I'm deeply involved in Robotics & Machine Learning_
+_I design and engineer complex software systems with a strong focus on performance, reliability, and scalability. My work involves deep system thinking, careful architectural decisions, and handling edge cases under real-world constraints. I optimize infrastructure, backend logic, and deployments to deliver stable, production-ready solutions that outperform typical implementations in production._
 
-## 🧑🏻‍💻 Experience
+## Experience
 
-- **AWS DevOps Intern**
-  > _Sep 2023 - Jan 2024_
+- **Most Senior and solo Developer**
+
+  > _The University of Lahore, 2024 - Now_
   >
-  > > _Gained hands-on experience in AWS cloud services, continuous integration, and continuous deployment (CI/CD) pipelines. Contributed to automating infrastructure and improving system reliability._
- 
-- **MERN Stack Developer | PaceDream Team**  
-  > *Jul 2024 - Sep 2024*  
-  > > _Leading full-stack web development projects using MongoDB, Express, React, and Node.js. Collaborating on cutting-edge applications with a focus on responsive design and 
-  efficient backend solutions._
+  > > _Built mission-critical offline-first competitive programming platform with zero-trust security, real-time sync, cryptographic access control system architecture for events access._
+
+- **Senior Frontend Developer**
+
+  > _PaceDream Company, 2024_
+  >
+  > > _Led senior frontend development, managing four developers, delivering complex flight booking workflows and secure payment handling._
+
+  - **AWS DevOps Intern**
+
+  > _The DevOps Team, 2023 - 2024_
+  >
+  > > _Hands-on DevOps experience using Ubuntu, shell scripting, AWS, Terraform, Jenkins, Ansible for automation and scalable infrastructure._
 
 <hr/>
 
 ## 💼 Skills
 
-|  ID | Languages           | Frameworks/Libraries                               | Links                                                                                                                                                                   | Projects                                                                         |
-| --: | ------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-|   1 | **Java**            | _OOP, DSA, JavaFX, SQL, Java Swing_                | [_OOP_](https://github.com/MuhammadAliyan10/Java_Assignment), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                               | [_JavaFX & SQL_](https://github.com/MuhammadAliyan10/Search_Engine_Java)         |
-|   2 | **Java/TypeScript**      | _JavaScript, DSA, React, Next, MongoDb, Express_   | [_MERN Stack_](https://github.com/MuhammadAliyan10/Web_Development), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                        | [_Web Development_](https://github.com/MuhammadAliyan10/Web_Development)         |
-|   3 | **Python**          | _Machine Learning, Deep Learning, DSA, Bots, Compiler_             | [_Machine Learning & Deep Learning_](https://github.com/MuhammadAliyan10/Machine_Learning), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) | [_Email or Spam_](https://github.com/MuhammadAliyan10/Email_Spam)                |
-|   4 | **Shell Scripting** | _AWS, DevOps, Ansible, Jenkins, Terraform, Docker_ | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  | [_Ansible & Jenkins_](https://github.com/MuhammadAliyan10/ansible_jenkins_nginx) |
-|   5 | **Ethical Hacking** | _Computer Networking, OS, Linux, Ddos Attacks_ | [Ethical Hacking](https://github.com/MuhammadAliyan10/Ethical-Hacking.git)                                                                                                  | [_Hacking_](https://github.com/MuhammadAliyan10/Ethical-Hacking.git) |
+|  ID | Languages/Skills     | Frameworks/Terms                                           | Links                                                                                                                                                                   |
+| --: | -------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | **Go**               | NATS JetStream, Temporal\_                                 | [_GO_](https://github.com/MuhammadAliyan10/Go.git)                                                                                                                      |
+|   2 | **Java**             | _OOP, DSA, JavaFX, SQL, Java Swing_                        | [_OOP_](https://github.com/MuhammadAliyan10/Java_Assignment), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                               |
+|   3 | **Java/TypeScript**  | _SSR, SDR, Next, Caching, Hooks_                           | [_MERN Stack_](https://github.com/MuhammadAliyan10/Web_Development), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                        |
+|   4 | **Python**           | _Machine Learning, Deep Learning, DSA, Bots, Automation_   | [_Machine Learning & Deep Learning_](https://github.com/MuhammadAliyan10/Machine_Learning), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) |
+|   5 | **System Architect** | _Rate Limiting, API Gateway, Load Balancer, Caching, VPN,_ | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  |
+|   6 | **DevOps**           | _AWS, DevOps, Ansible, Jenkins, Terraform, Docker_         | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  |
+|   7 | **Ethical Hacking**  | _Computer Networking, OS, Linux, Ddos Attacks_             | [Ethical Hacking](https://github.com/MuhammadAliyan10/Ethical-Hacking.git)                                                                                              |
 
 <br/>
 <hr/>
@@ -142,25 +172,13 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 ## 🌱 Currently Learning
 
-- _Astrophysics & Quantum Mechanics_
-- _Linear Algebra & Physics_
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
-
-
-## 💻 Tech Stack
-
-> **AWS:** _Proficient in AWS services such as EC2, S3, Lambda, etc._
->
-> > **DevOps:** _Experience with DevOps practices and tools like Docker, Kubernetes, CI/CD pipelines, etc._
-> >
-> > > **MERN Stack Developer:** _Proficient in MongoDB, Express.js, React.js,Next js, Node.js for full-stack web development._
-> > >
-> > > > **Machine Learning & Deep Learning:** _Familiar with machine learning and deep learning algorithms and frameworks such as TensorFlow, Pandas, Matplotlib, Seaborn, NumPy, scikit-learn, etc._
+- _Quantum Computing_
+- _Robotic Process Automation_
+  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 
 <br/>
 <hr/>
 <br/>
-
 
 ## 🌐 Languages
 
@@ -177,16 +195,15 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 - **Portfolio**: [Portfolio](https://aliyan-portfolio-six.vercel.app/)
 
-## 🚀 Projects
-
-- [**Web Development**](https://github.com/users/MuhammadAliyan10/projects/1)
-
 ```python
-user = "You";
-if (user.see()) {
-    print("Thanks for visiting.")
-}
-else {
-    print("😒");
-}
+class Developer:
+    def __init__(self):
+        self.name = "Muhammad Aliyan Nadeem"
+        self.status = "Building the future of RPA & Quantum"
+
+    def greet(self):
+        print("Thanks for visiting my profile. Let's build something mission-critical!")
+
+me = Developer()
+me.greet()
 ```
