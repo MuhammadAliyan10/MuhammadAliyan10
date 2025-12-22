@@ -134,7 +134,7 @@ _I design and engineer complex software systems with a strong focus on performan
 
 ## Experience
 
-- **Most Senior and solo Developer**
+- **Most Senior and Solo Developer**
 
   > _The University of Lahore, 2024 - Now_
   >
@@ -146,7 +146,7 @@ _I design and engineer complex software systems with a strong focus on performan
   >
   > > _Led senior frontend development, managing four developers, delivering complex flight booking workflows and secure payment handling._
 
-  - **AWS DevOps Intern**
+- **AWS DevOps Intern**
 
   > _The DevOps Team, 2023 - 2024_
   >
@@ -174,7 +174,8 @@ _I design and engineer complex software systems with a strong focus on performan
 
 - _Quantum Computing_
 - _Robotic Process Automation_
-  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
+
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 
 <br/>
 <hr/>
