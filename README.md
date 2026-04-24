@@ -9,7 +9,7 @@
 ## Tech Stack
 
 <br/>
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=go&theme=dark" width="36" height="36" alt="go" />
   </a>
@@ -118,6 +118,7 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="36" height="36" alt="sklearn" />
   </a>
+  </div>
 
 ## Education
 
