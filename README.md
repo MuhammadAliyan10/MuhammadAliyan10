@@ -129,6 +129,11 @@
   - _2018 - 2020_
   - **The Hope College**
 
+- **BS Computer Science — CV Details**
+  - _Sep 2022 - Jun 2026_
+  - **The University of Lahore — Sargodha Campus**
+  - **CGPA:** 3.25 / 4.00
+
 ## Bio
 
 _I design and engineer complex software systems with a strong focus on performance, reliability, and scalability. My work involves deep system thinking, careful architectural decisions, and handling edge cases under real-world constraints. I optimize infrastructure, backend logic, and deployments to deliver stable, production-ready solutions that outperform typical implementations in production._
@@ -153,6 +158,25 @@ _I design and engineer complex software systems with a strong focus on performan
   >
   > > _Hands-on DevOps experience using Ubuntu, shell scripting, AWS, Terraform, Jenkins, Ansible for automation and scalable infrastructure._
 
+
+- **Software Engineer — Quanta**
+
+  > _AI Browser Automation Platform | Dec 2024 - Present_
+  >
+  > > _Built an AI-powered browser automation platform with Next.js, Go, Python, and Playwright. Designed reliable task execution with Temporal, NATS, PostgreSQL, Redis, Qdrant, MinIO, and Docker. Combined conventional browser logic with LLM reasoning when needed, and implemented secure browser-session storage, session capture, usage controls, and automated workflows._
+
+- **Software Engineer — PaceDream (CV Details)**
+
+  > _US-based Startup | Jul 2024 - Sep 2024_
+  >
+  > > _Built responsive interfaces from Figma designs, integrated backend APIs for a travel platform, developed flight-related features, and reviewed code while supporting three other developers._
+
+- **DevOps Intern — Software House (CV Details)**
+
+  > _Jul 2023 - Aug 2023_
+  >
+  > > _Worked with AWS EC2, VPC, Terraform, Jenkins, Linux, Bash, and Python on deployment, CI/CD, networking, and infrastructure automation._
+
 <hr/>
 
 ## 💼 Skills
@@ -166,6 +190,31 @@ _I design and engineer complex software systems with a strong focus on performan
 |   5 | **System Architect** | _Rate Limiting, API Gateway, Load Balancer, Caching, VPN,_ | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  |
 |   6 | **DevOps**           | _AWS, DevOps, Ansible, Jenkins, Terraform, Docker_         | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  |
 |   7 | **Ethical Hacking**  | _Computer Networking, OS, Linux, Ddos Attacks_             | [Ethical Hacking](https://github.com/MuhammadAliyan10/Ethical-Hacking.git)                                                                                              |
+|   8 | **Backend & APIs** | _Go/Gin, FastAPI, Node.js, Express, REST APIs, WebSockets_ | — |
+|   9 | **AI & Automation** | _Playwright, LangChain, LangGraph, RAG, LLM APIs_ | — |
+|  10 | **Data & Storage** | _PostgreSQL, Redis, MongoDB, MySQL, Supabase, Qdrant, MinIO_ | — |
+|  11 | **Frontend & Mobile** | _Next.js, React, React Native, Tailwind CSS, ShadCN, Radix UI, TanStack_ | — |
+|  12 | **Cloud & Delivery** | _Azure, Docker Compose, GitHub Actions, AWS, Terraform, Jenkins_ | — |
+
+## Selected Projects
+
+- **Eats — Restaurant Commerce & Operations Platform (2026)**
+
+  > _Built a multi-restaurant commerce and operations platform covering orders, kitchen operations, inventory, staff roles, riders, customers, finance, and menu management. Developed configurable products, guest checkout, delivery options, live order updates, and a WhatsApp ordering flow for browsing, selecting options, submitting delivery information, and placing orders._
+  >
+  > **Stack:** Next.js, TypeScript, TanStack, Neon PostgreSQL, React Hook Form, Zod, Tailwind CSS, ShadCN.
+
+- **Sentinel — Event Access & Security System**
+
+  > _Built event administration, registration, student, and QR-scanner applications with Next.js, React Native, and Supabase. Implemented rotating QR codes, time validation, and duplicate-entry protection for an event supporting 470+ attendees._
+
+- **UOLJudge — Competitive Programming Platform**
+
+  > _Built and operated a university competitive-programming platform across two computer labs, supporting 70+ participants and 50+ submissions. Managed Docker deployment, Azure hosting, infrastructure, networking, and the live competition environment. Received a university **System Architect** shield._
+
+<br/>
+<hr/>
+<br/>
 
 <br/>
 <hr/>
