@@ -122,17 +122,14 @@
 
 ## Education
 
-- **Bachelor in Computer Science**
-  - _2022 - 2026_
+- **Bachelor of Science in Computer Science**
+  - _Sep 2022 - Jun 2026_
   - **The University of Lahore**
+    
 - **Information and Communication Technology**
   - _2018 - 2020_
   - **The Hope College**
 
-- **BS Computer Science — CV Details**
-  - _Sep 2022 - Jun 2026_
-  - **The University of Lahore — Sargodha Campus**
-  - **CGPA:** 3.25 / 4.00
 
 ## Bio
 
