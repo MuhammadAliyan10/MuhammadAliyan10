@@ -162,13 +162,13 @@ _I design and engineer complex software systems with a strong focus on performan
   >
   > > _Built an AI-powered browser automation platform with Next.js, Go, Python, and Playwright. Designed reliable task execution with Temporal, NATS, PostgreSQL, Redis, Qdrant, MinIO, and Docker. Combined conventional browser logic with LLM reasoning when needed, and implemented secure browser-session storage, session capture, usage controls, and automated workflows._
 
-- **Software Engineer — PaceDream (CV Details)**
+- **Software Engineer — PaceDream**
 
   > _US-based Startup | Jul 2024 - Sep 2024_
   >
   > > _Built responsive interfaces from Figma designs, integrated backend APIs for a travel platform, developed flight-related features, and reviewed code while supporting three other developers._
 
-- **DevOps Intern — Software House (CV Details)**
+- **DevOps Intern — Software House**
 
   > _Jul 2023 - Aug 2023_
   >
@@ -187,13 +187,13 @@ _I design and engineer complex software systems with a strong focus on performan
 |   5 | **System Architect** | _Rate Limiting, API Gateway, Load Balancer, Caching, VPN,_ | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  |
 |   6 | **DevOps**           | _AWS, DevOps, Ansible, Jenkins, Terraform, Docker_         | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  |
 |   7 | **Ethical Hacking**  | _Computer Networking, OS, Linux, Ddos Attacks_             | [Ethical Hacking](https://github.com/MuhammadAliyan10/Ethical-Hacking.git)                                                                                              |
-|   8 | **Backend & APIs** | _Go/Gin, FastAPI, Node.js, Express, REST APIs, WebSockets_ | — |
-|   9 | **AI & Automation** | _Playwright, LangChain, LangGraph, RAG, LLM APIs_ | — |
-|  10 | **Data & Storage** | _PostgreSQL, Redis, MongoDB, MySQL, Supabase, Qdrant, MinIO_ | — |
-|  11 | **Frontend & Mobile** | _Next.js, React, React Native, Tailwind CSS, ShadCN, Radix UI, TanStack_ | — |
-|  12 | **Cloud & Delivery** | _Azure, Docker Compose, GitHub Actions, AWS, Terraform, Jenkins_ | — |
+|   8 | **Backend & APIs** | _Go/Gin, FastAPI, Node.js, Express, REST APIs, WebSockets_ | [ Redis ](https://github.com/MuhammadAliyan10/Redis)                                                   |
+|   9 | **AI & Automation** | _Playwright, LangChain, LangGraph, RAG, LLM APIs_ | [_Quanta_](https://github.com/MuhammadAliyan10/QBA-Backend)                                                |
+|  10 | **Data & Storage** | _PostgreSQL, Redis, MongoDB, MySQL, Supabase, Qdrant, MinIO_ | [_Redis_](https://github.com/MuhammadAliyan10/QBA-Backend)                                                |
+|  11 | **Frontend & Mobile** | _Next.js, React, React Native, Tailwind CSS, ShadCN, Radix UI, TanStack_ | [_HouseLog_](https://github.com/MuhammadAliyan10/HouseLog)                                            |
+|  12 | **Cloud & Delivery** | _Azure, Docker Compose, GitHub Actions, AWS, Terraform, Jenkins_ | [_UOLJudge_](https://github.com/MuhammadAliyan10/UOLJudge)                                            | |
 
-## Selected Projects
+## Projects
 
 - **Eats — Restaurant Commerce & Operations Platform (2026)**
 
@@ -213,14 +213,12 @@ _I design and engineer complex software systems with a strong focus on performan
 <hr/>
 <br/>
 
-<br/>
-<hr/>
-<br/>
 
 ## 🌱 Currently Learning
 
 - _Quantum Computing_
 - _Robotic Process Automation_
+- _AI PipeLines & DL_
 
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 
