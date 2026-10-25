@@ -137,9 +137,9 @@ _I design and engineer complex software systems with a strong focus on performan
 
 ## Experience
 
-- **Most Senior and Solo Developer**
+- **Senior and Solo Developer**
 
-  > _The University of Lahore, 2024 - Now_
+  > _The University of Lahore, 2024 - 2026_
   >
   > > _Built mission-critical offline-first competitive programming platform with zero-trust security, real-time sync, cryptographic access control system architecture for events access._
 
@@ -195,7 +195,7 @@ _I design and engineer complex software systems with a strong focus on performan
 
 ## Projects
 
-- **Eats — Restaurant Commerce & Operations Platform (2026)**
+- **Eats — Restaurant Commerce & Operations Platform**
 
   > _Built a multi-restaurant commerce and operations platform covering orders, kitchen operations, inventory, staff roles, riders, customers, finance, and menu management. Developed configurable products, guest checkout, delivery options, live order updates, and a WhatsApp ordering flow for browsing, selecting options, submitting delivery information, and placing orders._
   >
@@ -219,8 +219,6 @@ _I design and engineer complex software systems with a strong focus on performan
 - _Quantum Computing_
 - _Robotic Process Automation_
 - _AI PipeLines & DL_
-
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 
 <br/>
 <hr/>
