@@ -4,7 +4,7 @@
 
 ## About Me
 
-**Software Engineer | DevOps & Cloud Architect | RPA & Quantum Computing Researcher**
+**Applied AI Engineer | DevOps & Cloud Architect**
 
 ## Tech Stack
 
