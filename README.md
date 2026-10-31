@@ -209,7 +209,6 @@ _I design and engineer complex software systems with a strong focus on performan
 
   > _Built and operated a university competitive-programming platform across two computer labs, supporting 70+ participants and 50+ submissions. Managed Docker deployment, Azure hosting, infrastructure, networking, and the live competition environment. Received a university **System Architect** shield._
 
-<hr/>
 
 ## 🌱 Currently Learning
 
@@ -217,7 +216,6 @@ _I design and engineer complex software systems with a strong focus on performan
 - _Robotic Process Automation_
 - _Agentic AI_
 
-<hr/>
 
 ## Languages
 
