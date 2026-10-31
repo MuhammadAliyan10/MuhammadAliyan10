@@ -4,7 +4,7 @@
 
 ## About Me
 
-**Applied AI Engineer | DevOps & Cloud Architect**
+**Applied AI Engineer | System & Cloud Architect**
 
 ## Tech Stack
 
@@ -209,20 +209,15 @@ _I design and engineer complex software systems with a strong focus on performan
 
   > _Built and operated a university competitive-programming platform across two computer labs, supporting 70+ participants and 50+ submissions. Managed Docker deployment, Azure hosting, infrastructure, networking, and the live competition environment. Received a university **System Architect** shield._
 
-<br/>
 <hr/>
-<br/>
-
 
 ## 🌱 Currently Learning
 
-- _Quantum Computing_
+- _Applied AI_
 - _Robotic Process Automation_
-- _AI PipeLines & DL_
+- _Agentic AI_
 
-<br/>
 <hr/>
-<br/>
 
 ## Languages
 
@@ -232,12 +227,9 @@ _I design and engineer complex software systems with a strong focus on performan
 
 ## Contact
 
-- **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
+- **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammadaliyan10/)
 - **Email**: aliyannadeem10@gmail.com
 
-## Resume
-
-- **Resume**: [Resume](https://www.canva.com/design/DAG8IwKagDc/IZjSMy7sEsHkbZxlhpZ63g/edit?utm_content=DAG8IwKagDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ```python
 class Developer:
